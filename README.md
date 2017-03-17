@@ -1,7 +1,7 @@
 # Docker Android Build Box
 
 
-[![Build Status](https://travis-ci.org/mingchen/docker-android-build-box.svg?branch=master)](https://travis-ci.org/mingchen/docker-android-build-box)
+[![Build Status](https://travis-ci.org/fanky10/docker-android-build-box.svg?branch=master)](https://travis-ci.org/fanky10/docker-android-build-box)
 
 
 ## Introduction

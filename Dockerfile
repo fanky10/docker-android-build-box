@@ -129,7 +129,7 @@ RUN wget -q -O android-ndk.zip http://dl.google.com/android/repository/android-n
 
 # Add android commands to PATH
 ENV ANDROID_SDK_HOME $ANDROID_HOME
-ENV PATH $PATH:$ANDROID_SDK_HOME/tools:$ANDROID_SDK_HOME/platform-tools:$ANDROID_NDK
+ENV PATH $PATH:$ANDROID_SDK_HOME/tools:$ANDROID_SDK_HOME/tools/bin:$ANDROID_SDK_HOME/platform-tools:$ANDROID_NDK
 
 
 # Export JAVA_HOME variable
